@@ -1,4 +1,4 @@
-# collision-pose-public
+# collision-pose-hppfcl
 Object Pose Estimation from Images with Geometrical and Physical Consistency
 
 # Install
